@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jose Diego Gallardo"
 title_separator          : "-"
-name                     : &name "José Diego Gallardo"
+name                     : &name "Jose Diego Gallardo"
 description              : &description "personal description"
 url                      : https://josediegogallardo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "josediegogallardo/josediegogallardo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "José Diego Gallardo"
+  name             : "Jose Diego Gallardo"
   pronouns         : # example: "she/her"  
   bio              : "B.S. in Economics""
-  location         : "Lima, Perú"
+  location         : "Lima, Peru"
   employer         : ""
   uri              : # URL
   email            : "jose.gallardoa@pucp.pe" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "josediegogallardo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
